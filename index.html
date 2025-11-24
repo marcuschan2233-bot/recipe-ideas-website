@@ -13,7 +13,7 @@
         <p>Explore a world of flavors with our recipe ideas</p>
         <form class="search-bar">
             <input type="text" id="search-input" placeholder="Search by ingredient or cuisine">
-            <button id="search-button">Search</button>
+            <button type="button" id="search-button">Search</button>
         </form>
     </section>
 
@@ -21,6 +21,26 @@
     <section class="recipe-grid">
         <!-- Recipe Cards will be generated here -->
     </section>
+
+    <!-- Recipe Modal -->
+    <div id="recipe-modal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <div class="modal-header">
+                <img id="modal-image" src="" alt="Recipe">
+                <div class="modal-info">
+                    <h2 id="modal-title"></h2>
+                    <p id="modal-time"></p>
+                    <p id="modal-difficulty"></p>
+                    <p id="modal-description"></p>
+                </div>
+            </div>
+            <div class="modal-body">
+                <h3>Cooking Instructions:</h3>
+                <ol id="modal-instructions"></ol>
+            </div>
+        </div>
+    </div>
 
     <script src="script.js"></script>
 </body>
