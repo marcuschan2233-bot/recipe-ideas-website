@@ -16,7 +16,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1598866594230-a7c12756260f?w=400&h=300&fit=crop',
         name: 'Spaghetti Bolognese',
         cookingTime: '45 minutes',
         difficulty: 'Medium',
@@ -48,7 +48,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?w=400&h=300&fit=crop',
         name: 'Beef Tacos',
         cookingTime: '25 minutes',
         difficulty: 'Medium',
@@ -64,7 +64,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1599974579688-8dbdd335e90f?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1605333396915-3c5c8f95000f?w=400&h=300&fit=crop',
         name: 'Chicken Fajitas',
         cookingTime: '30 minutes',
         difficulty: 'Medium',
@@ -80,7 +80,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1485921325833-c519f76c4927?w=400&h=300&fit=crop',
         name: 'Baked Salmon',
         cookingTime: '20 minutes',
         difficulty: 'Easy',
@@ -112,7 +112,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1619096252214-ef06c45683e3?w=400&h=300&fit=crop',
         name: 'Grilled Cheese Sandwich',
         cookingTime: '10 minutes',
         difficulty: 'Easy',
@@ -128,7 +128,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1588566565463-180a5f3c822e?w=400&h=300&fit=crop',
         name: 'Chicken Noodle Soup',
         cookingTime: '35 minutes',
         difficulty: 'Easy',
@@ -144,7 +144,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1597362925123-77861d3fbac7?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1518779578993-ec3579fee39f?w=400&h=300&fit=crop',
         name: 'Roasted Vegetables',
         cookingTime: '45 minutes',
         difficulty: 'Easy',
@@ -176,7 +176,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1565680018434-b513d5e5fd47?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1633504581786-6e5c0e7c6f6c?w=400&h=300&fit=crop',
         name: 'Lemon Garlic Shrimp',
         cookingTime: '20 minutes',
         difficulty: 'Medium',
@@ -192,7 +192,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1546793665-c74683f339c1?w=400&h=300&fit=crop',
         name: 'Caesar Salad',
         cookingTime: '15 minutes',
         difficulty: 'Easy',
@@ -208,7 +208,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=400&h=300&fit=crop',
         name: 'Margherita Pizza',
         cookingTime: '25 minutes',
         difficulty: 'Medium',
@@ -224,7 +224,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1476124369491-c311b27fe1c5?w=400&h=300&fit=crop',
         name: 'Mushroom Risotto',
         cookingTime: '40 minutes',
         difficulty: 'Hard',
@@ -240,7 +240,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop',
         name: 'Classic Burger',
         cookingTime: '20 minutes',
         difficulty: 'Easy',
@@ -256,7 +256,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1559314809-0d155014e29e?w=400&h=300&fit=crop',
         name: 'Pad Thai',
         cookingTime: '30 minutes',
         difficulty: 'Medium',
@@ -272,7 +272,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1544025162-d76694265947?w=400&h=300&fit=crop',
         name: 'BBQ Ribs',
         cookingTime: '2 hours',
         difficulty: 'Hard',
@@ -288,7 +288,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1574484284002-952d92456975?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=400&h=300&fit=crop',
         name: 'Chicken Curry',
         cookingTime: '45 minutes',
         difficulty: 'Medium',
@@ -304,7 +304,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400&h=300&fit=crop',
         name: 'Greek Salad',
         cookingTime: '10 minutes',
         difficulty: 'Easy',
@@ -320,7 +320,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1547592166-23ac45744acd?w=400&h=300&fit=crop',
         name: 'French Onion Soup',
         cookingTime: '1 hour',
         difficulty: 'Medium',
@@ -336,7 +336,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1608897013039-887f21d8c804?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=400&h=300&fit=crop',
         name: 'Sushi Rolls',
         cookingTime: '50 minutes',
         difficulty: 'Hard',
@@ -352,7 +352,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1574894709920-11b28e7367e3?w=400&h=300&fit=crop',
         name: 'Lasagna',
         cookingTime: '1 hour 30 minutes',
         difficulty: 'Hard',
@@ -368,7 +368,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1615870216519-2f9fa575fa5c?w=400&h=300&fit=crop',
         name: 'Fish Tacos',
         cookingTime: '25 minutes',
         difficulty: 'Easy',
@@ -384,7 +384,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1557872943-16a5ac26437e?w=400&h=300&fit=crop',
         name: 'Ramen Bowl',
         cookingTime: '40 minutes',
         difficulty: 'Medium',
@@ -400,7 +400,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1592417817098-8fd3d9eb14a5?w=400&h=300&fit=crop',
         name: 'Caprese Salad',
         cookingTime: '10 minutes',
         difficulty: 'Easy',
@@ -416,7 +416,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1603073163308-9fa2f49c8d59?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1588168333986-5078d3ae3976?w=400&h=300&fit=crop',
         name: 'Beef Wellington',
         cookingTime: '2 hours',
         difficulty: 'Hard',
@@ -432,7 +432,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1606787366850-de6330128bfc?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=400&h=300&fit=crop',
         name: 'Chicken Tikka Masala',
         cookingTime: '50 minutes',
         difficulty: 'Medium',
@@ -448,7 +448,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1619221882931-a72ef451a9bc?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1590759668628-05b0fc34754d?w=400&h=300&fit=crop',
         name: 'Lobster Roll',
         cookingTime: '20 minutes',
         difficulty: 'Easy',
@@ -464,7 +464,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=400&h=300&fit=crop',
         name: 'Eggs Benedict',
         cookingTime: '25 minutes',
         difficulty: 'Hard',
@@ -480,7 +480,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1551782450-17144efb9c50?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1600011689032-8b628b8a8747?w=400&h=300&fit=crop',
         name: 'Beef Stroganoff',
         cookingTime: '40 minutes',
         difficulty: 'Medium',
@@ -496,7 +496,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1606744837616-56c9a5c6e5d6?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1553163147-622ab57be1c7?w=400&h=300&fit=crop',
         name: 'Bibimbap',
         cookingTime: '35 minutes',
         difficulty: 'Medium',
@@ -512,7 +512,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1598511757337-fe2cafc31ba0?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1619895092538-128341789043?w=400&h=300&fit=crop',
         name: 'Pulled Pork Sandwich',
         cookingTime: '4 hours',
         difficulty: 'Medium',
@@ -528,7 +528,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1559058922-4c2276b1ca2c?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1593560704563-f176a2eb61db?w=400&h=300&fit=crop',
         name: 'Falafel Wrap',
         cookingTime: '30 minutes',
         difficulty: 'Easy',
@@ -544,7 +544,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1600891964092-4316c288032e?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1645112411341-6c4fd023714a?w=400&h=300&fit=crop',
         name: 'Chicken Alfredo',
         cookingTime: '30 minutes',
         difficulty: 'Easy',
@@ -560,7 +560,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1534938665420-4193effeacc4?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1591814468924-caf88d1232e1?w=400&h=300&fit=crop',
         name: 'Pho',
         cookingTime: '2 hours',
         difficulty: 'Hard',
@@ -576,7 +576,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1623341214825-9f4f963727da?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1612874742237-6526221588e3?w=400&h=300&fit=crop',
         name: 'Carbonara',
         cookingTime: '25 minutes',
         difficulty: 'Medium',
@@ -592,7 +592,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1601050690597-df0568f70950?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1606744837616-56c9a5c6e5d6?w=400&h=300&fit=crop',
         name: 'Stuffed Bell Peppers',
         cookingTime: '1 hour',
         difficulty: 'Medium',
@@ -608,7 +608,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1572441713132-c542fc4fe282?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1587486937773-5c7ced3c07e9?w=400&h=300&fit=crop',
         name: 'Shakshuka',
         cookingTime: '30 minutes',
         difficulty: 'Easy',
@@ -624,7 +624,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1574484284002-952d92456975?w=400&h=300&fit=crop',
         name: 'Lamb Chops',
         cookingTime: '20 minutes',
         difficulty: 'Medium',
@@ -640,7 +640,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1559847844-5315695dadae?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1534080564583-6be75777b70a?w=400&h=300&fit=crop',
         name: 'Paella',
         cookingTime: '1 hour',
         difficulty: 'Hard',
@@ -656,7 +656,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1599912027704-58baa61c0b90?w=400&h=300&fit=crop',
         name: 'Enchiladas',
         cookingTime: '45 minutes',
         difficulty: 'Medium',
@@ -672,7 +672,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1572695157366-5e585ab2b69f?w=400&h=300&fit=crop',
         name: 'Bruschetta',
         cookingTime: '15 minutes',
         difficulty: 'Easy',
@@ -688,7 +688,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1583773317825-66561b4e8979?w=400&h=300&fit=crop',
         name: 'Chili Con Carne',
         cookingTime: '1 hour 30 minutes',
         difficulty: 'Easy',
@@ -704,7 +704,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1625944525533-473f1a3d54e7?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1618588870326-cb2ef4e36566?w=400&h=300&fit=crop',
         name: 'Pesto Pasta',
         cookingTime: '20 minutes',
         difficulty: 'Easy',
@@ -720,7 +720,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1613564834361-9436948817d1?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=400&h=300&fit=crop',
         name: 'Butter Chicken',
         cookingTime: '50 minutes',
         difficulty: 'Medium',
@@ -736,7 +736,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1564834724105-918b73d1b9e0?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1618040996337-56904b7850b9?w=400&h=300&fit=crop',
         name: 'Quesadilla',
         cookingTime: '15 minutes',
         difficulty: 'Easy',
@@ -752,7 +752,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1617093727343-374698b1b08d?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=400&h=300&fit=crop',
         name: 'Chicken Wings',
         cookingTime: '40 minutes',
         difficulty: 'Easy',
@@ -768,7 +768,7 @@ const recipes = [
         ]
     },
     {
-        image: 'https://images.unsplash.com/photo-1623428454614-abaf00244e52?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1614069686110-80e6ea4d91ea?w=400&h=300&fit=crop',
         name: 'Gnocchi',
         cookingTime: '35 minutes',
         difficulty: 'Medium',
