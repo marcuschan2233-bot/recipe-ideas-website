@@ -63,7 +63,7 @@ const recipes = [
         description: 'Hearty and comforting soup made with chicken, noodles, and vegetables.'
     },
     {
-        image: 'https://images.unsplash.com/photo-1576045057995-568f588f82fb?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1566385101042-1a0aa0c1268c?w=400&h=300&fit=crop',
         name: 'Roasted Vegetables',
         cookingTime: '45 minutes',
         difficulty: 'Easy',
